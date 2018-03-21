@@ -1,2 +1,2 @@
 # carousel
-轮播图
+carousel
